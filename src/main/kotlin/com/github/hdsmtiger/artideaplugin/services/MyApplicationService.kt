@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hdsmtiger.artideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hdsmtiger.artideaplugin.MyBundle
 
 class MyApplicationService {
 
